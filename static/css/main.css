@@ -1,0 +1,14 @@
+.recommend {
+  border-radius: 4px;
+  border-style: solid;
+  cursor: pointer;
+  border-width: 1px;
+  margin-top: 8px;
+}
+
+#content {
+  background-color: lightblue;
+  border-radius: 6px;
+  padding: 1em;
+  margin-top: 6em;
+}
